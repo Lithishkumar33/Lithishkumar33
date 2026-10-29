@@ -70,7 +70,7 @@ Currently seeking an entry-level Software Developer or Full-Stack Engineer role 
 ### 🎓 Education
 
 - **Master of Computer Application (MCA)**  
-  *Community Institute of Management Studies (CIMS), Bengaluru* | Dec 2024 – Ongoing  
+  *Community Institute of Management Studies (CIMS), Bengaluru* | Dec 2024 – Sep 2026  
   *Affiliated to Bengaluru City University*
 
 - **Bachelor of Computer Application (BCA)**  
